@@ -15,5 +15,6 @@ public class CapabilitiesManager {
         caps.setCapability(MobileCapabilityType.AUTOMATION_NAME, "UiAutomator2");
         caps.setCapability("autoGrantPermissions", true);
         return caps;
+
     }
 }
