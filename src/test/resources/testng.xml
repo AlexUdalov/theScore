@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TheScoreTestSuite">
+    <test name="TheScoreTests">
+        <packages>
+            <package name="org.thescore.testcases.*">
+            </package>
+        </packages>
+    </test>
+</suite>
